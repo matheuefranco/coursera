@@ -1,0 +1,22 @@
+{
+  "name": "git-franco",
+  "version": "1.0.0",
+  "description": "Este e um projeto teste",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuefranco/coursera.git"
+  },
+  "author": "Matheus Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheuefranco/coursera/issues"
+  },
+  "homepage": "https://github.com/matheuefranco/coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
